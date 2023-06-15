@@ -1,0 +1,2 @@
+The Odin Recipes project is currently just an exercise in basic HTML, but will at a later date be utilised for CSS.
+Once completed I will have demonstated use of HTML tags and elements, as well as project structure and use of git.
